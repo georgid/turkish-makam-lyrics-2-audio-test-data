@@ -1,0 +1,66 @@
+[
+    {
+        "name": "ZEMIN", 
+        "time": [
+            0.458083, 
+            14.805227
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "name": "ZEMIN", 
+        "time": [
+            14.805227, 
+            28.14459
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "name": "NAKARAT", 
+        "time": [
+            28.14459, 
+            45.324516
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "name": "NAKARAT2", 
+        "time": [
+            45.324516, 
+            61.6689
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "name": "MEYAN", 
+        "time": [
+            61.6689, 
+            78.101236
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "name": "MEYAN", 
+        "time": [
+            78.101236, 
+            94.12313
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "name": "NAKARAT", 
+        "time": [
+            94.12313, 
+            111.112494
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "name": "NAKARAT2", 
+        "time": [
+            111.112494, 
+            127.094077
+        ], 
+        "time_unit": "sec"
+    }
+]

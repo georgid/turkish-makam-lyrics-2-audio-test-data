@@ -1,0 +1,47 @@
+[
+    {
+        "confidence": "0.01", 
+        "name": "UNSURE", 
+        "time": [
+            0.0, 
+            7.709
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.055969", 
+        "name": "MEYAN2", 
+        "time": [
+            7.7555, 
+            22.5234
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.09071", 
+        "name": "NAKARAT", 
+        "time": [
+            21.7803, 
+            32.7866
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.19692", 
+        "name": "NAKARAT2", 
+        "time": [
+            35.2943, 
+            46.2541
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.01", 
+        "name": "UNSURE", 
+        "time": [
+            46.3006, 
+            88.8395
+        ], 
+        "time_unit": "sec"
+    }
+]

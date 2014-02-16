@@ -1,0 +1,74 @@
+[
+    {
+        "confidence": "0.51609", 
+        "name": "ZEMIN", 
+        "time": [
+            1.161, 
+            16.254
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.45589", 
+        "name": "ZEMIN", 
+        "time": [
+            16.3933, 
+            31.4398
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.71941", 
+        "name": "NAKARAT", 
+        "time": [
+            30.9754, 
+            49.6443
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.69432", 
+        "name": "NAKARAT2", 
+        "time": [
+            49.4121, 
+            67.4772
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.63227", 
+        "name": "MEYAN", 
+        "time": [
+            67.6629, 
+            85.6816
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.56603", 
+        "name": "MEYAN", 
+        "time": [
+            85.7745, 
+            103.8396
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.60856", 
+        "name": "NAKARAT", 
+        "time": [
+            103.1895, 
+            121.8583
+        ], 
+        "time_unit": "sec"
+    }, 
+    {
+        "confidence": "0.61179", 
+        "name": "NAKARAT2", 
+        "time": [
+            121.7654, 
+            139.877
+        ], 
+        "time_unit": "sec"
+    }
+]

@@ -1,0 +1,6 @@
+Start(sec)	End(sec)	Section	Confidence
+0.74304	28.9321	aranagme	0.8031
+29.1178	59.3966	zemin	0.65764
+59.6288	89.9541	nakarat	0.64074
+89.9541	121.5797	meyan	0.70375
+121.6261	152.1371	nakarat	0.52597
