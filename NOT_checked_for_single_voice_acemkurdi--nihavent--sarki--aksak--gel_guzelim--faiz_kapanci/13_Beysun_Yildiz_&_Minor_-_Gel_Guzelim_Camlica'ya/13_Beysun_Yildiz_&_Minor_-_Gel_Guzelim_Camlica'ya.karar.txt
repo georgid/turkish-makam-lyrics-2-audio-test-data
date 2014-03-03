@@ -1,5 +1,0 @@
-annotation	261.3006
-histogram	175.018
-histogram_octaveWrapped	260.7204
-link_repetitiveSection	261.6256
-match_pitchDistributions	261.6256
