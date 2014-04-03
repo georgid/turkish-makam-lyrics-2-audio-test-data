@@ -1,0 +1,96 @@
+{
+	"annotations": [
+		{
+			"name": "ZEMIN",
+			"time": [0.236594,26.254848],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"time": [26.254848,51.623174],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"time": [51.623174,77.254852],
+			"time_unit": "sec"
+		},
+		{
+			"name": "MEYAN",
+			"time": [77.254852,102.895683],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"time": [102.895683,128.080227],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"time": [128.080227,153.2053],
+			"time_unit": "sec"
+		}
+	],
+	"links": [
+		{
+			"name": "ZEMIN",
+			"weight": 0.6704980843,
+			"relative_tempo": 0.9439421338,
+			"time": [
+				[0.8823582766],
+				[26.56362812]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"weight": 0.6349514563,
+			"relative_tempo": 0.9432234432,
+			"time": [
+				[26.42430839],
+				[51.78049887]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"weight": 0.667961165,
+			"relative_tempo": 0.9414990859,
+			"time": [
+				[51.82693878],
+				[77.22956916]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "MEYAN",
+			"weight": 0.7562380038,
+			"relative_tempo": 0.9438405797,
+			"time": [
+				[77.4153288],
+				[103.0501587]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"weight": 0.627184466,
+			"relative_tempo": 0.9753787879,
+			"time": [
+				[103.3752381],
+				[127.8955102]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"weight": 0.6078431373,
+			"relative_tempo": 0.9409594096,
+			"time": [
+				[128.1277098],
+				[153.2981406]
+			],
+			"time_unit": "sec"
+		}
+	]
+}

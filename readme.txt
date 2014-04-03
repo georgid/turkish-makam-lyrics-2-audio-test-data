@@ -2,6 +2,8 @@
 This is readme about the test dataset for lyrics-to-audio alignment
 This is a corpus of the classical turkish vocal form sarki.
 
+NOTE: .txt files are in ISO-8859-9 encoding
+To convert run: iconv -f ISO-8859-9 -t UTF-8 inputFile > outputFile
 --------------------------
 files contained: 
 .txt - symbtr version 1.0 Format
@@ -15,6 +17,9 @@ author = {Karaosmano{\u{g}}lu, M Kemal},
 
 .pdf - full Score
 .txtTur - Copy of lyrics (in original turkish script) from .pdf
+
+to do evaluation of performance, Phrase-level annotation is : 
+.TextGrid : tier phrases
 
 
 .tsv - section annotations by note numbers in the score
@@ -41,24 +46,33 @@ file://huzzam--sarki--curcuna--kusade_taliim--sevki_bey/06_Kusade_Talihim/06_Kus
 quiet accompaniment
 
 nihavent--sarki--aksak--bakmiyor_cesm-i--haci_arif_bey/04_Hamiyet_Yuceses_-_Bakmiyor_Cesm-i_Siyah_Feryade
-nice voice, bad quality, with gazel. gazel used for training 
+nice voice, bad quality, with gazel. gazel used for adaptation 
 
 nihavent--sarki--aksak--gel_guzelim--faiz_kapanci/18_Munir_Nurettin_Selcuk_-_Gel_Guzelim_Camlica'ya
 nice voice, bad quality, with gazel. gazel part used for training 
 
+
+
 ---------------------------
+
+acemkurdi--sarki--agiraksak--sevdi_gonlum--nikogos_aga/Hafiz_Kemal_Bey--Vasfini_Bu_Resme_Tertip_Ettiler
+rec quality is so bad, that lyrics in some parts of vocal are unintelligible
+
 hicaz--sarki--aksak--gulsen-i_husnune--rifat_bey/05_Aziz_Turk_Sanat_Muzigi_Grubu_-_Gulseni_Husnune_Kimler_Variyor
-female choir all the time, but quiet accomapniment 
+female choir all the time,  two vocals: one with echo of the second: check channels.
+  but quiet accomapniment 
 
 huseyni--sarki--turkaksagi--hicran_oku--sevki_bey/01_Koro_-_Hicran_Okur_Sinem_Deler
 male and female voice in octave in whole song
 
-huseyni--sarki--musemmen--hem_cemalin--zeki_duygulu/Koro--Canli Fasil 8- Huseyni
-male and female voice in octave in whole song
+huseyni--sarki--musemmen--hem_cemalin--zeki_duygulu/Koro--Canli_Fasil_8-Huseyni--Hem_Cemalin
+female voice and choir behind in whole song, but female is predominant
 a lot of vibrato
+
 
 nihavent--sarki--aksak--bakmiyor_cesm-i--haci_arif_bey/15_Koro_-_Bakmiyor_Cesm-i_Siyah_Feryade
 choir all the time, hard one
+
 
 -----------
 Scores are in symbTr format. 
