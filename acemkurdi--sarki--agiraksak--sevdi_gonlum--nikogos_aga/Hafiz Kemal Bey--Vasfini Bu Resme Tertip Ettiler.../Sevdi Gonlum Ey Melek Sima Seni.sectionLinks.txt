@@ -1,7 +1,0 @@
-Start(sec)	End(sec)	Section	Confidence
-0	13.8855	unsure	0.01
-13.932	43.1427	zemin	0.56878
-42.864	71.1459	nakarat	0.61491
-71.0066	98.3133	nakarat	0.55283
-98.1275	125.6664	meyan	0.60107
-125.6664	152.9731	nakarat	0.49254
