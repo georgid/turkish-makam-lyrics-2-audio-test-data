@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.676666666666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 8.676666666666666 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3099920958326108 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3099920958326108 
+            xmax = 1.4319691202820644 
+            text = "bana bir" 
+        intervals [3]:
+            xmin = 1.4319691202820644 
+            xmax = 1.913721966938327 
+            text = "" 
+        intervals [4]:
+            xmin = 1.913721966938327 
+            xmax = 3.912045452574995 
+            text = " haber ver " 
+        intervals [5]:
+            xmin = 3.912045452574995 
+            xmax = 4.354180466447025 
+            text = "" 
+        intervals [6]:
+            xmin = 4.354180466447025 
+            xmax = 8.05678158776949 
+            text = "budur niyazIm" 
+        intervals [7]:
+            xmin = 8.05678158776949 
+            xmax = 8.676666666666666 
+            text = "" 
