@@ -4,6 +4,8 @@ This is a corpus of the classical turkish vocal form sarki.
 
 NOTE: .txt files are in ISO-8859-9 encoding
 To convert run: iconv -f ISO-8859-9 -t UTF-8 inputFile > outputFile
+To check encoding: 
+file -b  --mime-encoding <filename>
 --------------------------
 files contained: 
 .txt - symbtr version 1.0 Format
