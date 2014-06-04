@@ -11,16 +11,28 @@ item []:
         name = "phrases" 
         xmin = 0 
         xmax = 16.07199546485261 
-        intervals: size = 3 
+        intervals: size = 6 
         intervals [1]:
             xmin = 0 
             xmax = 0.5624641034669461 
             text = "" 
         intervals [2]:
             xmin = 0.5624641034669461 
-            xmax = 7.043831838243954 
-            text = "doyamam OmrUme ben" 
+            xmax = 3.7796647544250987 
+            text = "doyamam " 
         intervals [3]:
+            xmin = 3.7796647544250987 
+            xmax = 7.043831838243954 
+            text = "OmrUme ben" 
+        intervals [4]:
             xmin = 7.043831838243954 
+            xmax = 8.640690555507854 
+            text = "kalbini " 
+        intervals [5]:
+            xmin = 8.640690555507854 
+            xmax = 12.304072318642685 
+            text = "Calsam " 
+        intervals [6]:
+            xmin = 12.304072318642685 
             xmax = 16.07199546485261 
-            text = "kalbini Calsam da senin" 
+            text = "da senin" 

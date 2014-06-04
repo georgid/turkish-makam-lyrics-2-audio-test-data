@@ -11,20 +11,32 @@ item []:
         name = "phrases" 
         xmin = 0 
         xmax = 12.701315192743763 
-        intervals: size = 4 
+        intervals: size = 7 
         intervals [1]:
             xmin = 0 
-            xmax = 3.191119519094664 
-            text = "koklasan" 
+            xmax = 0.6815670998944512 
+            text = "" 
         intervals [2]:
-            xmin = 3.191119519094664 
-            xmax = 7.264650256024763 
-            text = "saClarInI" 
+            xmin = 0.6815670998944512 
+            xmax = 3.284358379413569 
+            text = "koklasan" 
         intervals [3]:
-            xmin = 7.264650256024763 
+            xmin = 3.284358379413569 
+            xmax = 6.1098483780359265 
+            text = "saClarInI" 
+        intervals [4]:
+            xmin = 6.1098483780359265 
+            xmax = 7.346155558766536 
+            text = "" 
+        intervals [5]:
+            xmin = 7.346155558766536 
             xmax = 9.891955298763051 
             text = "bu gece ta" 
-        intervals [4]:
+        intervals [6]:
             xmin = 9.891955298763051 
-            xmax = 12.701315192743763 
+            xmax = 12.140376565696902 
             text = "fecre kadar" 
+        intervals [7]:
+            xmin = 12.140376565696902 
+            xmax = 12.701315192743763 
+            text = "" 

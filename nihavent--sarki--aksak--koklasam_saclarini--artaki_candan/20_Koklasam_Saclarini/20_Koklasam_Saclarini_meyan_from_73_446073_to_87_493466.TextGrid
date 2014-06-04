@@ -11,20 +11,36 @@ item []:
         name = "phrases" 
         xmin = 0 
         xmax = 14.047392290249434 
-        intervals: size = 4 
+        intervals: size = 8 
         intervals [1]:
             xmin = 0 
+            xmax = 0.799485243770329 
+            text = "" 
+        intervals [2]:
+            xmin = 0.799485243770329 
             xmax = 3.4682324149683663 
             text = "kanatIr" 
-        intervals [2]:
+        intervals [3]:
             xmin = 3.4682324149683663 
             xmax = 5.038396088352078 
             text = "ruhumu" 
-        intervals [3]:
+        intervals [4]:
             xmin = 5.038396088352078 
             xmax = 8.096128196553462 
             text = "mazide" 
-        intervals [4]:
+        intervals [5]:
             xmin = 8.096128196553462 
+            xmax = 9.132641471140095 
+            text = "kalan " 
+        intervals [6]:
+            xmin = 9.132641471140095 
+            xmax = 9.450779208884507 
+            text = "" 
+        intervals [7]:
+            xmin = 9.450779208884507 
+            xmax = 13.23764453880993 
+            text = "hatIralar" 
+        intervals [8]:
+            xmin = 13.23764453880993 
             xmax = 14.047392290249434 
-            text = "kalan hatIralar" 
+            text = "" 
