@@ -1,0 +1,64 @@
+{
+    "sections": [
+        {
+            "endNote": 38, 
+            "startNote": 1, 
+            "name": "aranagme"
+        }, 
+        {
+            "endNote": 76, 
+            "startNote": 39, 
+            "name": "aranagme"
+        }, 
+        {
+            "endNote": 104, 
+            "startNote": 77, 
+            "name": "zemin"
+        }, 
+        {
+            "endNote": 153, 
+            "startNote": 105, 
+            "name": "zemin"
+        }, 
+        {
+            "endNote": 181, 
+            "startNote": 154, 
+            "name": "nakarat"
+        }, 
+        {
+            "endNote": 209, 
+            "startNote": 182, 
+            "name": "nakarat"
+        }, 
+        {
+            "endNote": 247, 
+            "startNote": 210, 
+            "name": "aranagme"
+        }, 
+        {
+            "endNote": 285, 
+            "startNote": 248, 
+            "name": "aranagme"
+        }, 
+        {
+            "endNote": 313, 
+            "startNote": 286, 
+            "name": "zemin_2"
+        }, 
+        {
+            "endNote": 362, 
+            "startNote": 314, 
+            "name": "zemin_2"
+        }, 
+        {
+            "endNote": 390, 
+            "startNote": 363, 
+            "name": "nakarat"
+        }, 
+        {
+            "endNote": 418, 
+            "startNote": 391, 
+            "name": "nakarat"
+        }
+    ]
+}

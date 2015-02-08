@@ -1,0 +1,104 @@
+{
+    "sections": [
+        {
+            "endNote": 34, 
+            "startNote": 1, 
+            "name": "aranagme"
+        }, 
+        {
+            "endNote": 68, 
+            "startNote": 35, 
+            "name": "aranagme"
+        }, 
+        {
+            "endNote": 96, 
+            "startNote": 69, 
+            "name": "zemin"
+        }, 
+        {
+            "endNote": 131, 
+            "startNote": 97, 
+            "name": "zemin"
+        }, 
+        {
+            "endNote": 165, 
+            "startNote": 132, 
+            "name": "nakarat"
+        }, 
+        {
+            "endNote": 200, 
+            "startNote": 166, 
+            "name": "nakarat2"
+        }, 
+        {
+            "endNote": 229, 
+            "startNote": 201, 
+            "name": "meyan"
+        }, 
+        {
+            "endNote": 267, 
+            "startNote": 230, 
+            "name": "meyan"
+        }, 
+        {
+            "endNote": 301, 
+            "startNote": 268, 
+            "name": "nakarat"
+        }, 
+        {
+            "endNote": 327, 
+            "startNote": 302, 
+            "name": "nakarat2"
+        }, 
+        {
+            "endNote": 361, 
+            "startNote": 328, 
+            "name": "aranagnme"
+        }, 
+        {
+            "endNote": 395, 
+            "startNote": 362, 
+            "name": "aranagnme"
+        }, 
+        {
+            "endNote": 423, 
+            "startNote": 396, 
+            "name": "zemin_2"
+        }, 
+        {
+            "endNote": 458, 
+            "startNote": 424, 
+            "name": "zemin_2"
+        }, 
+        {
+            "endNote": 492, 
+            "startNote": 459, 
+            "name": "nakarat_2"
+        }, 
+        {
+            "endNote": 527, 
+            "startNote": 493, 
+            "name": "nakarat2_2"
+        }, 
+        {
+            "endNote": 556, 
+            "startNote": 528, 
+            "name": "meyan_2"
+        }, 
+        {
+            "endNote": 594, 
+            "startNote": 557, 
+            "name": "meyan_2"
+        }, 
+        {
+            "endNote": 628, 
+            "startNote": 595, 
+            "name": "nakarat_2"
+        }, 
+        {
+            "endNote": 654, 
+            "startNote": 629, 
+            "name": "nakarat2_2"
+        }
+    ]
+}
