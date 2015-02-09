@@ -18,7 +18,7 @@
         {
             "endNote": 131, 
             "startNote": 97, 
-            "name": "zemin"
+            "name": "zemin2"
         }, 
         {
             "endNote": 165, 
@@ -38,7 +38,7 @@
         {
             "endNote": 267, 
             "startNote": 230, 
-            "name": "meyan"
+            "name": "meyan2"
         }, 
         {
             "endNote": 301, 
@@ -63,42 +63,42 @@
         {
             "endNote": 423, 
             "startNote": 396, 
-            "name": "zemin_2"
+            "name": "zemin"
         }, 
         {
             "endNote": 458, 
             "startNote": 424, 
-            "name": "zemin_2"
+            "name": "zemin2"
         }, 
         {
             "endNote": 492, 
             "startNote": 459, 
-            "name": "nakarat_2"
+            "name": "nakarat"
         }, 
         {
             "endNote": 527, 
             "startNote": 493, 
-            "name": "nakarat2_2"
+            "name": "nakarat2"
         }, 
         {
             "endNote": 556, 
             "startNote": 528, 
-            "name": "meyan_2"
+            "name": "meyan"
         }, 
         {
             "endNote": 594, 
             "startNote": 557, 
-            "name": "meyan_2"
+            "name": "meyan2"
         }, 
         {
             "endNote": 628, 
             "startNote": 595, 
-            "name": "nakarat_2"
+            "name": "nakarat"
         }, 
         {
             "endNote": 654, 
             "startNote": 629, 
-            "name": "nakarat2_2"
+            "name": "nakarat2"
         }
     ]
 }
